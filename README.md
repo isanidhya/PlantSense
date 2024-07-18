@@ -1,5 +1,5 @@
 
-### Project Title: PlantSense - Smart Indoor Plant Care System
+### PlantSense - Smart Indoor Plant Care System
 
 In this project, we will develop an intelligent indoor plant care system using the SIPEED MAXDUINO IoT Kit. The SIPEED MAXDUINO, with its versatile connectivity and processing capabilities, provides an ideal platform for implementing an integrated system that monitors and cares for indoor plants. This project will ensure optimal plant growth conditions through automated watering, climate control, light management, and health monitoring, leveraging IoT sensors and AI algorithms.
 
